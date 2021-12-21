@@ -1,0 +1,7 @@
+initialise n=5
+while n>=0
+if n==even
+   print n
+else 
+   print n-5
+   n=n-1
